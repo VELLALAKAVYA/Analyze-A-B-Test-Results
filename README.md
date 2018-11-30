@@ -5,7 +5,7 @@ The project was completed based on the A/B Teest results on new_page and old_pag
 Steps involved during the analysis were page assignment, removing duplicate user ids, hypothesis testing and standard statistical tests, and multiple regression modelling.
 # Statistical Analysis
 Sampling distributions and p-value calcualtions.
-Z-core tests.
+Z-core tests.<br>
 Logistic regression
 Multiple linear regression modelling to assess for interactions of independent variables.
 # Technologies Used
